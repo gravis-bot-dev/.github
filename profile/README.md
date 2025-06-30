@@ -61,7 +61,7 @@ GravisBotDev is a developer organization that creates and provides Discord bots 
 |-------|------|----------|-----------|
 | 🎵 **MusicBot** | 音楽再生bot | YouTube, Spotify連携 | [![Status](https://img.shields.io/badge/Status-Active-success)](#) |
 | 🛡️ **TTSBot** | 読み上げBOT | VOICEVOXなどを使用して音声読み上げをします！ | [![Status](https://img.shields.io/badge/Status-Development-yellow)](#) |
-| 📊 **TempVCBot** | 一時的なVCを作るBOT | 統計情報, レポート | [![Status](https://img.shields.io/badge/Status-Active-success)](#) |
+| 📊 **TempVCBot** | 一時的なVCを作るBOT | 統計情報, レポート | [![Status](https://tempvc-status.gulu.li/badge/tempvc-bot/status)](#) |
 | 🎮 **LOLTeamBot** | LOLのチーム分けBOT | チーム分け | [![Status](https://img.shields.io/badge/Status-Active-success)](#) |
 
 </div>
